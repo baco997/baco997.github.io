@@ -5,7 +5,7 @@ author_name:        "Heiswayi Nrird" # change this to your name
 logo_url:           /assets/avatar.jpg
 
 # Site Settings
-url:                https://baco997.github.io # main url
+url:                https://08shell.cn # main url
 baseurl:            
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
